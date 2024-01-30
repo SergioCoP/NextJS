@@ -1,3 +1,4 @@
+/*Creau automaticamente las tablas e inserción de datos en la base y inserta información */
 const { db } = require('@vercel/postgres');
 const {
   invoices,
